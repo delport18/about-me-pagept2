@@ -1,0 +1,50 @@
+html {
+	background-color: #C982FC;
+}
+
+p {
+	color: #2D3CFC;
+	font-family: sans-serif;
+	background-color: #C982FC;
+
+}
+
+li {
+	color: #2D3CFC;
+	font-family: sans-serif;
+	background-color: #C982FC;
+}
+
+h1 {
+	font-family: serif;
+	color: #2D3CFC;
+	font-style: italic;
+	background-color: #C982FC;
+
+}
+
+h2 {
+	font-family: serif;
+	color: #2D3CFC;
+	font-style: italic;
+	background-color: #C982FC;
+
+}
+
+a {
+	color: #2D3CFC;
+	font-family: sans-serif;
+	font: bold;
+	font-style: italic;
+	background-color: #C982FC;
+
+
+}
+
+img {
+	
+	float: left;
+	padding-right: 20px;
+	background-color: #C982FC;
+
+}
